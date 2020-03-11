@@ -49,27 +49,11 @@
 		157528582418D3C000C0CEE9 /* wyframework */ = {
 			isa = PBXGroup;
 			children = (
-				157528612418D3D200C0CEE9 /* include */,
+				157528632418D3D200C0CEE9 /* wysdk.h */,
 				157528642418D3D200C0CEE9 /* libwysdk.a */,
 				1575285A2418D3C000C0CEE9 /* Info.plist */,
 			);
 			path = wyframework;
-			sourceTree = "<group>";
-		};
-		157528612418D3D200C0CEE9 /* include */ = {
-			isa = PBXGroup;
-			children = (
-				157528622418D3D200C0CEE9 /* wysdk */,
-			);
-			path = include;
-			sourceTree = "<group>";
-		};
-		157528622418D3D200C0CEE9 /* wysdk */ = {
-			isa = PBXGroup;
-			children = (
-				157528632418D3D200C0CEE9 /* wysdk.h */,
-			);
-			path = wysdk;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
