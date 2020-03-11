@@ -294,6 +294,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/wyframework",
 				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iule.wyframework;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
@@ -323,6 +324,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/wyframework",
 				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.iule.wyframework;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
